@@ -1,0 +1,10 @@
+﻿  Vize-final-ortalama-uygulamasi.cpp
+C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi.cpp(36,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi.cpp(36,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi.cpp(37,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi.cpp(37,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi.cpp(42,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi.cpp(42,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi.cpp(43,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi\Vize-final-ortalama-uygulamasi.cpp(43,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Vize-final-ortalama-uygulamasi.vcxproj -> C:\Users\mfakt\source\repos\Vize-final-ortalama-uygulamasi\x64\Debug\Vize-final-ortalama-uygulamasi.exe
